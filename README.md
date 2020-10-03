@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a customer-focused [Software Engineer](https://linkedin.com/in/francismitra) interested in creating products and services that answer common pain points.
+I'm a customer-focused [Software Engineer](https://linkedin.com/in/francismitra) from the United States interested in creating products and services that answer common pain points.
 
-I'm currently based in the United States but have extensive experience in international markets as both a start up employee in Manila, Philippines (acquired in 2020) and as previous founder in Yangon, Myanmar (disbanded in 2016).
+I'm currently based in New York but have extensive experience in international markets as both a start up employee in Manila, Philippines (acquired in 2020) and as previous founder in Yangon, Myanmar (disbanded in 2016).

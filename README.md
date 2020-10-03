@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a customer-focused [Software Engineer](https://linkedin.com/in/francismitra) interested in creating products and services that answer common pain points.
+
+I'm currently based in the United States but have extensive experience in international markets as both a start up employee in Manila, Philippines (acquired in 2020) and as previous founder in Yangon, Myanmar (disbanded in 2016).
